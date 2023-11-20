@@ -37,6 +37,7 @@ namespace TrueCodeTestTask
             {
                 Console.WriteLine($"Error: {ex.Message}");
                 Console.ReadLine();
+                // Test
             }
         }
     }
